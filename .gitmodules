@@ -1,0 +1,3 @@
+[submodule "Serializer"]
+	path = Serializer
+	url = https://github.com/Johny574/Serializer.git
